@@ -1,3 +1,6 @@
+# イメージ画像
+![Image](https://github.com/user-attachments/assets/019aaa00-373d-4b4a-af02-f4806f6beb0a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
